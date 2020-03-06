@@ -2,6 +2,7 @@
 
 * [apr](apr)
 * [aug](aug)
+* [dec](dec)
 * [feb](feb)
 * [jan](jan)
 * [jul](jul)
