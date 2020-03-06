@@ -8,5 +8,6 @@
 * [jun](jun)
 * [mar](mar)
 * [may](may)
+* [nov](nov)
 * [oct](oct)
 * [sep](sep)
