@@ -43,7 +43,7 @@ def get_dirs_with_superdirectory(superdirectory):
 
 def main():
     dirs = []
-    dirs_and_subdirs = ['.', 'jbs', 'jbs/2019', 'dmr']
+    dirs_and_subdirs = ['.', 'jbs', 'jbs/2019', 'dmr', 'gsc']
 
     for superdir in dirs_and_subdirs:
         dirs += [superdir] + get_dirs_with_superdirectory(superdir)
